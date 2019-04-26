@@ -12,7 +12,7 @@ void cal(int temp) {
 	cout << temp << endl;
 }
 
-int main() {
+int solution_2968() {
 	int question_num;
 	int temp;
 	cin >> question_num;

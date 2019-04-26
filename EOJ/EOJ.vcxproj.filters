@@ -18,5 +18,16 @@
     <ClCompile Include="2968. 付钱.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1073. 几位数？.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="solutions.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
