@@ -29,5 +29,13 @@
     <ClInclude Include="solutions.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="1026. 重力加速度.cpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="example.txt">
+      <Filter>资源文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>
