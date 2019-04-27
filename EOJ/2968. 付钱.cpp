@@ -12,7 +12,7 @@ void cal(int temp) {
 	cout << temp << endl;
 }
 
-int solution_2968() {
+int EOJ_solution_2968() {
 	int question_num;
 	int temp;
 	cin >> question_num;

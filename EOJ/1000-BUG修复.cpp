@@ -2,7 +2,7 @@
 #include <math.h>
 using namespace std;
 
-int EOJ_solution_1026(){
+int EOJ_solution_1026() {
 	double time, n, h;				//n为层数，h为高度
 	while (cin >> n && n != 0) {
 		n--;						//3层应该是2层的高度

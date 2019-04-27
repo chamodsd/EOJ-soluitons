@@ -1,22 +1,26 @@
 #include <iostream>
-#include "solutions.h"
+#include "eoj_solutions.h"
 using namespace std;
 
-int solution(int index) {
+int EOJ_solution(int index) {
 	switch (index)
 	{
-	case 1026:solution_1026;break;
-	case 1073:solution_1073;break;
-	case 2968:solution_2968;break;
-	case 3686:solution_3686;break;
+	case 1026:EOJ_solution_1026();break;	//有不明BUG引发不可调用
+	case 1073:EOJ_solution_1073();break;
+	case 1828:EOJ_solution_1828();break;
+	case 2968:EOJ_solution_2968();break;
+	case 3686:EOJ_solution_3686();break;
 
 	default:break;
 	}
+	return 0; 
 }
 
-int main() {		//美中不足的是现在只可以从标准输入中获取数值，因为如果采用fopen等函数会大幅修改各个solution。
+int main() {		//美中不足的是现在只可以从标准输入中获取数值，因为如果采用fopen等函数会大幅修改各个EOJ_solution。
 	int question_num;
 	cin >> question_num;
-	solution(question_num);
+	EOJ_solution(question_num);
+	getchar();
+	getchar();
 	return 0;
 }

@@ -115,17 +115,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1000-BUG修复.cpp" />
     <ClCompile Include="1073. 几位数？.cpp" />
+    <ClCompile Include="1828. 起床.cpp" />
     <ClCompile Include="2968. 付钱.cpp" />
     <ClCompile Include="3686. 回文串.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1026. 重力加速度.cpp" />
-    <ClInclude Include="solutions.h" />
+    <ClInclude Include="eoj_solutions.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="example.txt" />
+    <Text Include="技巧记录.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
