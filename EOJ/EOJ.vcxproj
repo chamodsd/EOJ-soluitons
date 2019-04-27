@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="1073. 几位数？.cpp" />
     <ClCompile Include="2968. 付钱.cpp" />
+    <ClCompile Include="3686. 回文串.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
