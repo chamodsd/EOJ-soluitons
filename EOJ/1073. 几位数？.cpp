@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int EOJ_solution_1073() {
+int EOJ_solution_1073(void) {
 	int i = 0;
 	char temp;
 	while (getchar() != EOF) {

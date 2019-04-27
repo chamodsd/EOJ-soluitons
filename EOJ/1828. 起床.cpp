@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int EOJ_solution_1828() {
+int EOJ_solution_1828(void) {
 	int temp;
 	cin >> temp;
 	while (temp != -1) {

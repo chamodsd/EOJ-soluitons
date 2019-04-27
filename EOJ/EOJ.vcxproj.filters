@@ -30,6 +30,9 @@
     <ClCompile Include="1828. 起床.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1841. 津津的书架.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1026. 重力加速度.cpp">

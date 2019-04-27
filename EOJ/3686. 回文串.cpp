@@ -17,7 +17,7 @@ using namespace std;
 //	2)a[i]<a[j]，则队尾2个元素合并，j--；n++；
 //	3)a[i]=a[j]，队头，队尾同时出队。
 //3.直到i=j，程序结束，输出结果n。
-int EOJ_solution_3686() {
+int EOJ_solution_3686(void) {
 	long long n, a[1000000], i, j;
 	long long res = 0;
 	cin >> n;
