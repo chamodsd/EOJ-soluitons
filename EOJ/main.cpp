@@ -5,7 +5,7 @@ using namespace std;
 int EOJ_solution(int index) {
 	switch (index)
 	{
-	case 1026:EOJ_solution_1026();break;	//有不明BUG引发不可调用
+	case 1026:EOJ_solution_1026();break;
 	case 1073:EOJ_solution_1073();break;
 	case 1828:EOJ_solution_1828();break;
 	case 2968:EOJ_solution_2968();break;

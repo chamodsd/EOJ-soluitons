@@ -115,7 +115,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1000-BUG修复.cpp" />
     <ClCompile Include="1073. 几位数？.cpp" />
     <ClCompile Include="1828. 起床.cpp" />
     <ClCompile Include="2968. 付钱.cpp" />
