@@ -18,7 +18,7 @@ int EOJ_solution_2143(void) {
 			temp += num_free;
 			num %= 5;
 			//num += num_free;
-			//加上上述语句就变成了交换空瓶子问题
+			//加上上述语句就变成了交换空瓶子问题，另外这个while在这个问题里可以不要，为了形式上统一所以添加
 		}
 		while (num >= 3) {
 			num_free = num / 3;
