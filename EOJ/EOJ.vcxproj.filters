@@ -33,6 +33,9 @@
     <ClCompile Include="1841. 津津的书架.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2008. 查询.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1026. 重力加速度.cpp">

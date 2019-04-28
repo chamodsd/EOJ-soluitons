@@ -118,6 +118,7 @@
     <ClCompile Include="1073. 几位数？.cpp" />
     <ClCompile Include="1828. 起床.cpp" />
     <ClCompile Include="1841. 津津的书架.cpp" />
+    <ClCompile Include="2008. 查询.cpp" />
     <ClCompile Include="2968. 付钱.cpp" />
     <ClCompile Include="3686. 回文串.cpp" />
     <ClCompile Include="main.cpp" />
