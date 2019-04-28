@@ -14,6 +14,7 @@ int EOJ_solution(int index) {
 	case 2008:EOJ_solution_2008();break;
 	case 2031:EOJ_solution_2031();break;
 	case 2143:EOJ_solution_2143();break;
+	case 2581:EOJ_solution_2581();break;
 	case 2968:EOJ_solution_2968();break;
 	case 3686:EOJ_solution_3686();break;
 
