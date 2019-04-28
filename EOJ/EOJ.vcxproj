@@ -120,6 +120,7 @@
     <ClCompile Include="1221. 值班%28存在未明BUG%29.cpp" />
     <ClCompile Include="1828. 起床.cpp" />
     <ClCompile Include="1841. 津津的书架.cpp" />
+    <ClCompile Include="2004. 火仙花数.cpp" />
     <ClCompile Include="2008. 查询.cpp" />
     <ClCompile Include="2031. 绝对值排序.cpp" />
     <ClCompile Include="2143. 端午节快乐.cpp" />
