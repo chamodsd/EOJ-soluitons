@@ -121,6 +121,7 @@
     <ClCompile Include="1841. 津津的书架.cpp" />
     <ClCompile Include="2008. 查询.cpp" />
     <ClCompile Include="2031. 绝对值排序.cpp" />
+    <ClCompile Include="2143. 端午节快乐.cpp" />
     <ClCompile Include="2968. 付钱.cpp" />
     <ClCompile Include="3686. 回文串.cpp" />
     <ClCompile Include="main.cpp" />

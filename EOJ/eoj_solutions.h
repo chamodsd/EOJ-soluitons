@@ -9,3 +9,4 @@ int EOJ_solution_1841(void);
 int EOJ_solution_2008(void);
 int EOJ_solution_1002(void);
 int EOJ_solution_2031(void);
+int EOJ_solution_2143(void);

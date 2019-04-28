@@ -42,6 +42,9 @@
     <ClCompile Include="2031. 绝对值排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2143. 端午节快乐.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1026. 重力加速度.cpp">
