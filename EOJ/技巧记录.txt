@@ -1,9 +1,10 @@
 输入输出：
 cin/cout:
 cin >> 变量;
+cin.get(char ch);		//表示读取一个字符（转变成int型需要强制类型转换）
 cout << 变量/字符串/endl;
 
 printf:
 printf("%x",变量名);
-printf("%.nx",变量名);表示保留n位小数(float型)/打印数字的最小位数(整型)
-printf("%nx",变量名);表示最小字段宽度
+printf("%.nx",变量名);	//表示保留n位小数(float型)/打印数字的最小位数(整型)
+printf("%nx",变量名);	//表示最小字段宽度
