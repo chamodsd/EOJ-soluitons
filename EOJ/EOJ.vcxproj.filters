@@ -57,6 +57,9 @@
     <ClCompile Include="3682. 宇恒棋.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2140. 矩阵相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1026. 重力加速度.cpp">
