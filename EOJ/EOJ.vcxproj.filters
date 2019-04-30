@@ -54,6 +54,9 @@
     <ClCompile Include="2004. 火仙花数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3682. 宇恒棋.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1026. 重力加速度.cpp">
