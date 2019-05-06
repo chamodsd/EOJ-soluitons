@@ -72,6 +72,9 @@
     <ClCompile Include="2690. Soda Surpler.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2571. GCD and LCM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1026. 重力加速度.cpp">

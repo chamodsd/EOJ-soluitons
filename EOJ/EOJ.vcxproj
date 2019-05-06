@@ -127,6 +127,7 @@
     <ClCompile Include="2143. 端午节快乐.cpp" />
     <ClCompile Include="2145. 拥塞的城市.cpp" />
     <ClCompile Include="2568. Sum of digit.cpp" />
+    <ClCompile Include="2571. GCD and LCM.cpp" />
     <ClCompile Include="2581. 0 and 1.cpp" />
     <ClCompile Include="2610. 工程.cpp" />
     <ClCompile Include="2690. Soda Surpler.cpp" />
