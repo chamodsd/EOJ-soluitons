@@ -10,6 +10,7 @@ int EOJ_solution_2008(void);
 int EOJ_solution_1002(void);
 int EOJ_solution_2031(void);
 int EOJ_solution_2143(void);
+
 int EOJ_solution_2140(void);
 int EOJ_solution_1221(void);
 int EOJ_solution_2581(void);
@@ -18,3 +19,4 @@ int EOJ_solution_3682(void);
 int EOJ_solution_2145(void);
 int EOJ_solution_2568(void);
 int EOJ_solution_2610(void);
+int EOJ_solution_2690(void);
