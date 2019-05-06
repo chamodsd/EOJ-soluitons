@@ -19,6 +19,9 @@
     <Filter Include="源文件\数据结构·栈">
       <UniqueIdentifier>{ceeb9066-34f7-4713-9b1f-de498ad86996}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\数据结构·队列">
+      <UniqueIdentifier>{5e505265-4a6d-4838-8796-195bb7bf9d15}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2968. 付钱.cpp">
@@ -89,6 +92,9 @@
     </ClCompile>
     <ClCompile Include="3298. 排队买夜宵.cpp">
       <Filter>源文件\数据结构·栈</Filter>
+    </ClCompile>
+    <ClCompile Include="%28尚未完成%292458. Frequent values.cpp">
+      <Filter>源文件\数据结构·队列</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
