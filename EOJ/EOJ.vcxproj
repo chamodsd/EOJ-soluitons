@@ -126,6 +126,7 @@
     <ClCompile Include="2140. 矩阵相加.cpp" />
     <ClCompile Include="2143. 端午节快乐.cpp" />
     <ClCompile Include="2145. 拥塞的城市.cpp" />
+    <ClCompile Include="2568. Sum of digit.cpp" />
     <ClCompile Include="2581. 0 and 1.cpp" />
     <ClCompile Include="2968. 付钱.cpp" />
     <ClCompile Include="3682. 宇恒棋.cpp" />
@@ -138,6 +139,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="example.txt" />
+    <Text Include="大数处理测试文件.txt" />
     <Text Include="技巧记录.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
