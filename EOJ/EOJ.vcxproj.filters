@@ -66,6 +66,9 @@
     <ClCompile Include="2568. Sum of digit.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2610. 工程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1026. 重力加速度.cpp">
