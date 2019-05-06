@@ -75,6 +75,9 @@
     <ClCompile Include="2571. GCD and LCM.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1030. 母牛生小牛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1026. 重力加速度.cpp">

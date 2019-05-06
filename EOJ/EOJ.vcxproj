@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1002. IP Address.cpp" />
+    <ClCompile Include="1030. 母牛生小牛.cpp" />
     <ClCompile Include="1073. 几位数？.cpp" />
     <ClCompile Include="1221. 值班%28存在未明BUG%29.cpp" />
     <ClCompile Include="1828. 起床.cpp" />

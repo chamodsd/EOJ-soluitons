@@ -23,3 +23,5 @@ int EOJ_solution_2568(void);
 int EOJ_solution_2610(void);
 int EOJ_solution_2690(void);
 int EOJ_solution_2571(void);
+
+int EOJ_solution_1030(void);
