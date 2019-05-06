@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\数据结构·树">
+      <UniqueIdentifier>{0c96cc8b-4e4e-40db-b6a8-ec5d0577b74c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\数据结构·栈">
+      <UniqueIdentifier>{ceeb9066-34f7-4713-9b1f-de498ad86996}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2968. 付钱.cpp">
@@ -77,6 +83,12 @@
     </ClCompile>
     <ClCompile Include="1030. 母牛生小牛.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="%28待定%293638. 染色游戏.cpp">
+      <Filter>源文件\数据结构·树</Filter>
+    </ClCompile>
+    <ClCompile Include="3298. 排队买夜宵.cpp">
+      <Filter>源文件\数据结构·栈</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

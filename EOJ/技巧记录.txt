@@ -48,3 +48,8 @@ int('/')==47;
 求a,b的最小公倍数：
 a*b/gcd(a,b)即为最小公倍数
 ---------------------------------------------------------------------------------
+设计节点与单链表：
+		typedef struct LNode{
+			ElemType data;
+			struct LNode *next;
+		}LNode, *LinkList;

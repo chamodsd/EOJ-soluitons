@@ -133,6 +133,8 @@
     <ClCompile Include="2610. 工程.cpp" />
     <ClCompile Include="2690. Soda Surpler.cpp" />
     <ClCompile Include="2968. 付钱.cpp" />
+    <ClCompile Include="%28待定%293638. 染色游戏.cpp" />
+    <ClCompile Include="3298. 排队买夜宵.cpp" />
     <ClCompile Include="3682. 宇恒棋.cpp" />
     <ClCompile Include="3686. 回文串.cpp" />
     <ClCompile Include="main.cpp" />
