@@ -12,6 +12,7 @@ typedef struct {
 int init_queue(queue &q) {
 	q.tail = (int *)malloc(MAX * sizeof(int));
 	q.head = q.tail;
+	return 0;
 }
 
 int EOJ_solution_2458(void) {

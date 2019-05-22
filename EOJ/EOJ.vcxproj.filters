@@ -22,71 +22,11 @@
     <Filter Include="源文件\数据结构·队列">
       <UniqueIdentifier>{5e505265-4a6d-4838-8796-195bb7bf9d15}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\其它">
+      <UniqueIdentifier>{3170bdbf-0b3f-4dc9-9ddd-de4045d16ff6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2968. 付钱.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1073. 几位数？.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="3686. 回文串.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1828. 起床.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1841. 津津的书架.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2008. 查询.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1002. IP Address.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2031. 绝对值排序.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2143. 端午节快乐.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1221. 值班%28存在未明BUG%29.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2581. 0 and 1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2004. 火仙花数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="3682. 宇恒棋.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2140. 矩阵相加.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2145. 拥塞的城市.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2568. Sum of digit.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2610. 工程.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2690. Soda Surpler.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="2571. GCD and LCM.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1030. 母牛生小牛.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="%28待定%293638. 染色游戏.cpp">
       <Filter>源文件\数据结构·树</Filter>
     </ClCompile>
@@ -96,13 +36,79 @@
     <ClCompile Include="%28尚未完成%292458. Frequent values.cpp">
       <Filter>源文件\数据结构·队列</Filter>
     </ClCompile>
+    <ClCompile Include="1002. IP Address.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="1030. 母牛生小牛.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="1073. 几位数？.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="1221. 值班%28存在未明BUG%29.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="1828. 起床.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="1841. 津津的书架.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2004. 火仙花数.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2008. 查询.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2031. 绝对值排序.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2140. 矩阵相加.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2143. 端午节快乐.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2145. 拥塞的城市.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2568. Sum of digit.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2571. GCD and LCM.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2581. 0 and 1.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2610. 工程.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2690. Soda Surpler.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="2968. 付钱.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="3682. 宇恒棋.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="3686. 回文串.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
+    <ClCompile Include="%28尚未完成%293296. 2333.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="1026. 重力加速度.cpp">
-      <Filter>源文件</Filter>
-    </ClInclude>
     <ClInclude Include="eoj_solutions.h">
       <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="1026. 重力加速度.cpp">
+      <Filter>源文件\其它</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
