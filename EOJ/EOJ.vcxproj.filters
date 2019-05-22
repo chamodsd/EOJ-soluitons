@@ -102,6 +102,9 @@
     <ClCompile Include="%28尚未完成%293296. 2333.cpp">
       <Filter>源文件\其它</Filter>
     </ClCompile>
+    <ClCompile Include="3001. 计算a的n次方的大整数.cpp">
+      <Filter>源文件\其它</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="eoj_solutions.h">
@@ -119,6 +122,9 @@
       <Filter>源文件</Filter>
     </Text>
     <Text Include="大数处理测试文件.txt">
+      <Filter>源文件</Filter>
+    </Text>
+    <Text Include="帮助文档.txt">
       <Filter>源文件</Filter>
     </Text>
   </ItemGroup>

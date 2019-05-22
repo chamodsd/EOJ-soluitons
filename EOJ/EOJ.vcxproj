@@ -136,6 +136,7 @@
     <ClCompile Include="2968. 付钱.cpp" />
     <ClCompile Include="%28待定%293638. 染色游戏.cpp" />
     <ClCompile Include="%28尚未完成%293296. 2333.cpp" />
+    <ClCompile Include="3001. 计算a的n次方的大整数.cpp" />
     <ClCompile Include="3298. 排队买夜宵.cpp" />
     <ClCompile Include="3682. 宇恒棋.cpp" />
     <ClCompile Include="3686. 回文串.cpp" />
@@ -148,6 +149,7 @@
   <ItemGroup>
     <Text Include="example.txt" />
     <Text Include="大数处理测试文件.txt" />
+    <Text Include="帮助文档.txt" />
     <Text Include="技巧记录.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
